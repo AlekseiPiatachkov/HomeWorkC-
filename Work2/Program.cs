@@ -16,7 +16,7 @@ Console.Write("  " + number1);
 Console.Write("  " + number2);
 Console.WriteLine("  " + number3);
 
-int max = number1; 
+int max = number1;
 
 if (number1 > max ) number1 = max;
 if (number2 > max ) number2 = max;
